@@ -22,7 +22,7 @@ I am currently a third-year student majoring in **Software Engineering - High Qu
  
   - :seedling: Exploring Technical Content Writing.
  
-  - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+  - :zap: In my free time, I solve problems on GeeksforGeeks, ChatGPT, StackOverFlow and read tech articles.
  
   - :mailbox:How to reach me: **blhieuofficial@gmail.com**
 
