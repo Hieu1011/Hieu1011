@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTcxMzEwODE2NjFlMGI4OTlmYzYzZWZlNjU3YTZkZWY0NWEyOTFkOCZjdD1z/zhYSVCirREeIZtONCI/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTcxMzEwODE2NjFlMGI4OTlmYzYzZWZlNjU3YTZkZWY0NWEyOTFkOCZjdD1z/zhYSVCirREeIZtONCI/giphy.gif" width="250"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/luonghieu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Badge" height="30" width="40" /></a>
     <a href="https://fb.com/Atula2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Badge" height="30" width="40" /></a>
